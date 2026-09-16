@@ -1,0 +1,6 @@
+# Go
+*.exe
+*.test
+*.out
+go-ingestor/go-ingestor
+.DS_Store
